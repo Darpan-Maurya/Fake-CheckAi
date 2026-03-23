@@ -1,9 +1,9 @@
 
 
-Frontend: https://fakecheckai.netlify.app/
+Frontend: https://fake-check-ai.vercel.app/
 
 
-Backend API: https://fake-checkai-8.onrender.com/
+Backend API: https://fake-checkai-hep7.onrender.com
 
 ---
 
